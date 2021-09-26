@@ -1,2 +1,0 @@
-# mathos
-Python math expressions.
